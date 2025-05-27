@@ -1,0 +1,4 @@
+Hello, World!
+This is a test file.
+It contains multiple lines.
+For the FileReaderExample.
